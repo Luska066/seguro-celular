@@ -1,0 +1,44 @@
+@media (max-width:939px) {
+    .headerCorretorOne{
+        flex-direction: column-reverse;
+        gap: 14px;
+    }
+
+    .titleCorretorOne{
+        align-self: flex-start;
+        padding-left: 20px;
+    }
+
+    .boxStyleCorretorOne{
+        align-self: flex-end;
+        flex-direction: row-reverse;
+    }
+
+    .imgStyleBoxCorretorOne{
+        right: -40px; 
+    }
+}
+
+@media (max-width:728px) {
+    .titleCorretorOne h1{
+        font-size: 40px;
+    }
+}
+
+@media (max-width:519px) {
+    .headerCorretorOne{
+        gap: 15px;
+    }
+}
+
+@media (max-width:437px) {
+    .imgStyleCorretorOne{
+         width: 150px;   
+    } 
+ }
+ 
+ @media (max-width:318px) {
+     .imgStyleCorretorOne{
+          width: 130px;   
+     } 
+  }

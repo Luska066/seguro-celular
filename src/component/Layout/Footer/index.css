@@ -1,0 +1,42 @@
+@media (max-width:1263px) {
+    .controlContentFooter{
+        width: 900px;
+    }
+}
+
+@media (max-width:946px) {
+    .controlContentFooter{
+        width: 600px;
+    }
+
+    .part2Footer{
+        flex-direction: column-reverse;
+        align-items: center;
+        gap: 20px;
+    }
+}
+
+@media (max-width:665px) {
+    .controlContentFooter, .paragraphFooter{
+        width: fit-content;
+    }
+
+    .paragraphFooter{
+        text-align: center;
+    }
+
+    .part1Footer, .part2Footer{
+        padding: 0 15px;
+    }
+
+    .part1Footer h3{
+        font-size: 20px;
+    }
+}
+
+@media (max-width:461px) {
+    /* .boxSocialMediasFooter{
+        flex-direction: column;
+        gap: 30px;
+    } */
+}

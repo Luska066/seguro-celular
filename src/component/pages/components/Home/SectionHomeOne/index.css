@@ -1,0 +1,17 @@
+@media (max-width:550px) {
+    .pSectionOne{
+        width: fit-content;
+    }
+}
+
+@media (max-width:420px) {
+    .imgSectionHomeOne{ 
+        width: 300px;  
+    }
+}
+
+@media (max-width:325px) {
+    .imgSectionHomeOne{ 
+        width: 250px;  
+    }
+}

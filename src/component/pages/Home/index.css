@@ -1,0 +1,9 @@
+.title-accordion::after{
+    display: block;
+    position: absolute;
+    width: 150px;
+    height: 2px;
+    bottom: 0;
+    content: '';
+    background-color: black;
+}

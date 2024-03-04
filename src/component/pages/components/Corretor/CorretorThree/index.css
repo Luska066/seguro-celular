@@ -1,0 +1,33 @@
+@media (max-width:1162px) {
+    .lineBoxCorretorThree{
+        width: 900px;
+    }
+}
+
+@media (max-width:961px) {
+    .lineBoxCorretorThree{
+        width: 700px;
+    }
+}
+
+@media (max-width:747px) {
+    .lineBoxCorretorThree{
+        width: 550px;
+    }
+}
+
+@media (max-width:598px) {
+    .lineBoxCorretorThree{
+        width: 400px;
+    }
+}
+
+@media (max-width:438px) {
+    .lineBoxCorretorThree{
+        max-width: 300px;
+    }
+
+    .sectionCorretorThree{
+        padding: 30px 20px;
+    }
+}
