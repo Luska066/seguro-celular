@@ -1,0 +1,35 @@
+@media (max-width:1200px) {
+    .articleAccordion{
+        width: 620px;
+    }
+}
+
+@media (max-width:990px) {
+    .articleAccordion{
+        width: 660px;
+    }
+}
+
+@media (max-width:766px) {
+    .questionAccordion{
+        font-size: 20px;
+    }
+
+    .articleAccordion{
+        max-width: 460px;
+    }
+
+    .title-accordion{
+       font-size: 30px; 
+    }
+}
+
+@media (max-width:506px) {
+    .articleAccordion{
+        max-width: fit-content;
+    }
+
+    .sectionAccordion{
+        padding: 24px 10px;
+    }
+}

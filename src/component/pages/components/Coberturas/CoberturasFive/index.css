@@ -1,0 +1,43 @@
+@media (max-width:1000px) {
+    .tableCoberturasFive, .table{
+        width: 750px;
+    }
+}
+
+@media (max-width:766px) {
+    .h3CoberturasFive{
+        width: fit-content;
+    }
+
+    .sectionCoberturasFive{
+        padding: 35px 20px;
+    }
+
+    .tableCoberturasFive{
+        width: 570px;
+        overflow-x: auto;
+    }
+}
+
+@media (max-width:609px) {
+    .tableCoberturasFive{
+        max-width: 370px;
+        overflow-x: auto;
+    }
+}
+
+@media (max-width:400px) {
+    .tableCoberturasFive{
+        max-width: 270px;
+        overflow-x: auto;
+    }
+    
+}
+
+@media (max-width:303px) {
+    .tableCoberturasFive{
+        max-width: 200px;
+        overflow-x: auto;
+    }
+    
+}

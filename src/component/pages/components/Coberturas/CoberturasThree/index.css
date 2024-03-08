@@ -1,0 +1,61 @@
+@media (max-width:1300px) {
+    .inf1CoberturaThree{
+        width: 250px;
+    }
+
+    .inf2CoberturaThree{
+        width: 250px;
+    }
+
+    .inf3CoberturaThree{
+        width: 300px;
+    }
+}
+
+@media (max-width:1160px) {
+    .inf1CoberturaThree{
+        width: 200px;
+    }
+
+    .inf2CoberturaThree{
+        width: 200px;
+    }
+
+    .inf3CoberturaThree{
+        width: 250px;
+    }
+}
+
+@media (max-width:1014px) {
+    .cardBoxCoberturaThree{
+        flex-direction: column;
+        gap: 30px;
+    }
+    
+    .inf1CoberturaThree{
+        width: 450px;
+    }
+
+    .inf2CoberturaThree{
+        width: 450px;
+    }
+
+    .inf3CoberturaThree{
+        width: 450px;
+    }
+}
+
+@media (max-width:572px) {
+
+    .inf1CoberturaThree{
+        width: fit-content;
+    }
+
+    .inf2CoberturaThree{
+        width: fit-content;
+    }
+
+    .inf3CoberturaThree{
+        width: fit-content;
+    }
+}

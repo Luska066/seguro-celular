@@ -1,0 +1,109 @@
+.liSecurityPhone::before{
+    display: block;
+    content: '>';
+    margin-right: 3px;
+    color:#23366f;
+    font-size: 20px;
+}
+
+.liDuvidas::before{
+    display: block;
+    content: '>';
+    margin-right: 3px;
+    color:#23366f;
+    font-size: 20px;
+}
+
+@media (max-width:1255px) {
+    .articleDuvidasAccordion{
+        width: 800px;
+    }
+
+    .boxIframe{
+        width: 85%;
+        height: 380px;
+    }
+}
+
+@media (max-width:887px) {
+    .articleDuvidasAccordion{
+        width: 600px;
+    }
+
+    .boxIframe{
+        width: 90%;
+        height: 300px;
+    }
+}
+
+@media (max-width:643px) {
+    .articleDuvidasAccordion{
+        width: 400px;
+    }
+
+    .boxIframe{
+        width: 100%;
+        height: 320px;
+    }
+}
+
+@media (max-width:447px) {
+    .articleDuvidasAccordion{
+        width: 350px;
+    }
+
+    .boxIframe{
+        height: 250px;
+    }
+}
+
+@media (max-width:557px) {
+    .ulDuvidasAccordions{
+        padding-left: 20px;
+        font-size: 15px;
+    }
+}
+
+@media (max-width:344px) {
+    .ulDuvidasAccordions{
+        padding-left: 3px;
+    }
+}
+
+@media (max-width:387px) {
+    .articleDuvidasAccordion{
+        width: 300px;
+    }
+
+    .boxIframe{
+        height: 220px;
+    }
+}
+
+@media (max-width:341px) {
+    .articleDuvidasAccordion{
+        width: 280px;
+    }
+
+    .boxIframe{
+        height: 200px;
+    }
+}
+
+@media (max-width:317px) {
+    .articleDuvidasAccordion{
+        width: 260px;
+    }
+
+    .ulDuvidasAccordions{
+        flex-direction: column;
+        margin: 0 auto;
+    }
+
+}
+
+@media (max-width:293px) {
+    .articleDuvidasAccordion{
+        width: 90%;
+    }
+}

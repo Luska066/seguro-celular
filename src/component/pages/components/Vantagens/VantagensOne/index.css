@@ -1,0 +1,52 @@
+@media (max-width:1180px) {
+    .titleVantagensOne{
+        padding-left: 20px;
+    }
+}
+
+@media (max-width:1053px) {
+  .headerVantagensOne{
+    gap: 0;
+  }  
+}
+
+@media (max-width:952px) {
+    .headerVantagensOne{
+        flex-direction: column-reverse;
+        gap: 10px;
+    }
+
+    .headerVantagensOne h1{
+        font-size: 38px;
+    }
+
+    .titleVantagensOne{
+        align-self: flex-start;
+    }
+
+    .boxStyleVantagensOne{
+        align-self: flex-end;
+        flex-direction: row-reverse;
+        padding-right: 10px;
+    }
+
+    .imgStyleBoxVantagensOne{
+        right: -40px;
+    }
+}
+
+@media (max-width:437px) {
+   .imgStyleVantagensOne{
+        width: 150px;   
+   } 
+
+   .headerVantagensOne h1{
+    font-size: 30px;
+}
+}
+
+@media (max-width:318px) {
+    .imgStyleVantagensOne{
+         width: 130px;   
+    } 
+ }

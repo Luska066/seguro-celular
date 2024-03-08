@@ -1,0 +1,22 @@
+@media (max-width:766px) {
+    .h2CoberturasFour{
+        font-size: 30px;
+    }
+
+    .pCoberturasFour{
+        font-size: 18px;
+        width: 510px;
+        text-align: center;
+    }
+}
+
+@media (max-width:525px) {
+    .pCoberturasFour{
+        width: fit-content;
+    }
+
+    .boxCoberturasFour{
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+}

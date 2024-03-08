@@ -1,0 +1,19 @@
+
+#burger-bar{
+    display: none;
+}
+
+@media (max-width:1303px){
+    .text-span-header{
+        display: none;
+    }
+}
+
+@media (max-width:630px){
+    #nav-bar{
+        display: none;
+    }
+    #burger-bar{
+        display: flex;
+    }
+}

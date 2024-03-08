@@ -1,0 +1,21 @@
+@media (max-width:942px) {
+    .boxDuvidasHeader{
+        flex-direction: column-reverse;
+        gap: 13px;
+    }
+
+    .h1DuvidasHeader{
+        align-self: flex-start;
+        padding-bottom: 10px;
+        padding-left: 10px;
+    }
+
+    .boxStyleDuvidasHeader{
+        flex-direction: row-reverse;
+        align-self: flex-end;
+    }
+
+    .imgStyleDuvidasHeader{
+        right: -40px;
+    }
+}
