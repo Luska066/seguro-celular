@@ -1,7 +1,7 @@
 import React from "react"
 import Colors from "../../../../common/Colors"
 import Image from "../../../../../assets/imageWomanAsk.webp"
-import './index.css'
+// import './index.css'
 
 export default function DuvidasHeader() {
     return (

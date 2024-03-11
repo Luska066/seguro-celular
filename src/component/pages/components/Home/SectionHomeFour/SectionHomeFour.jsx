@@ -2,7 +2,7 @@ import { faDollar } from "@fortawesome/free-solid-svg-icons";
 import ButtonCoteNow from '../../../../common/ButtonCoteNow';
 import Colors from "../../../../common/Colors";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import './index.css'
+// import './index.css'
 
 export default function SectionHomeFour() {
     return (

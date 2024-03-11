@@ -1,4 +1,4 @@
-import './index.css'
+// import './index.css'
 import Colors from '../../../../common/Colors'
 import furtoIcon from '../../../../../assets/icone-furto2.webp'
 import rouboIcon from '../../../../../assets/icone-roubo.webp'

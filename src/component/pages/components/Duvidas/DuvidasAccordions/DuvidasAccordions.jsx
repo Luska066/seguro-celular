@@ -1,7 +1,7 @@
 import React from 'react'
 import { faCheck, faChevronRight, faCircle, faCircleDot, faHouse, faPlus } from '@fortawesome/free-solid-svg-icons'
 import Colors from '../../../../common/Colors'
-import './index.css'
+// import './index.css'
 import { Accordion, AccordionDetails, AccordionSummary, Box, Typography } from '@mui/material'
 import ReactPlayer from 'react-player'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'

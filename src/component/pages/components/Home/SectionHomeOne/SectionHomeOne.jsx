@@ -1,7 +1,7 @@
 import Colors from "../../../../common/Colors";
 import Image from '..//.//..//..//..//..//assets/img01.webp'
 import ButtonCoteNow from '../../../../common/ButtonCoteNow';
-import './index.css'
+// import './index.css'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faDollar } from "@fortawesome/free-solid-svg-icons";
 import './index.css'

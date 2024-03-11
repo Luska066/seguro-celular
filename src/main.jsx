@@ -5,7 +5,7 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import App from './App.jsx'
-import './index.css'
+import './App.css'
 import SectionHomeMain from './component/pages/Home/SectionHomeMain.jsx';
 import CoberturaMain from './component/pages/Cobertura/CoberturaMain.jsx';
 import VantagemMain from './component/pages/Vantagem/VantagemMain.jsx';

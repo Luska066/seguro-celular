@@ -2,7 +2,7 @@ import Colors from "../../../../common/Colors";
 import { faCheck, faXmark} from '@fortawesome/free-solid-svg-icons';
 import { faHeart } from '@fortawesome/free-regular-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import './index.css'
+// import './index.css'
 
 export default function CoberturasFive(){
     return(

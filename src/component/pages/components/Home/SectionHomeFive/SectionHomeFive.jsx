@@ -3,7 +3,7 @@ import React from "react"
 import Colors from "../../../../common/Colors"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faChevronRight, faPlus } from "@fortawesome/free-solid-svg-icons"
-import './index.css'
+// import './index.css'
 
 export default function SectionHomeFive(){
     const [expanded, setExpanded] = React.useState('panel1');

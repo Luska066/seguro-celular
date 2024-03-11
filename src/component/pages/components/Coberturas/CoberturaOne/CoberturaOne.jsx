@@ -1,6 +1,6 @@
 import womanImg from '../../../../../assets/woman-img.webp'
 import Colors from '../../../../common/Colors'
-import './index.css'
+// import './index.css'
 
 export default function CoberturaOne(){
     return(

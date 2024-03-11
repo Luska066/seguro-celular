@@ -1,4 +1,4 @@
-import './index.css'
+// import './index.css'
 import Colors from '../../../../common/Colors'
 import vantagensWoman from '../../../../../assets/vantagens-woman.webp'
 

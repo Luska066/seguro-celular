@@ -1,4 +1,4 @@
-import './index.css'
+// import './index.css'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faHouse} from '@fortawesome/free-solid-svg-icons';
 import Colors from '../../../../common/Colors';

@@ -1,4 +1,4 @@
-import './index.css'
+// import './index.css'
 import zBaloon from '..//..//..//..//..//assets/z-baloon.webp'
 import nounApp from '../../../../../assets/noun-app-3165998.webp'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
