@@ -1,4 +1,4 @@
-import Header from "../../Layout/Header/Header"
+import Header from '../../Layout/Header/Header.jsx' 
 import CoberturaOne from '../components/Coberturas/CoberturaOne/CoberturaOne'
 import CoberturasTwo from "../components/Coberturas/CoberturasTwo/CoberturasTwo"
 import SectionHomeThree from "../components/Home/SectionHomeThree/SectionHomeThree"

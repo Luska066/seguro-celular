@@ -1,8 +1,8 @@
-import facebookIcon from '..//..//..//assets/facebook-f.svg'
-import linkedinIcon from '..//..//..//assets/linkedin-in.svg'
-import InstagramIcon from '..//..//..//assets/instagram.svg'
-import youtubeIcon from '..//..//..//assets/youtube.svg'
-import Colors from '../../common/Colors'
+import facebookIcon from '../../../assets/facebook-f.svg'
+import linkedinIcon from '../../../assets/linkedin-in.svg'
+import InstagramIcon from '../../../assets/instagram.svg'
+import youtubeIcon from '../../../assets/youtube.svg'
+import Colors from '../../common/Colors.jsx'
 import './index.css'
 
 export default function Footer(){

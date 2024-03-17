@@ -1,6 +1,6 @@
-import Colors from "../../../../common/Colors";
+import Colors from "../../../../common/Colors.jsx";
 import Image from '..//.//..//..//..//..//assets/img01.webp'
-import ButtonCoteNow from '../../../../common/ButtonCoteNow';
+import ButtonCoteNow from '../../../../common/ButtonCoteNow.jsx';
 // import './index.css'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faDollar } from "@fortawesome/free-solid-svg-icons";

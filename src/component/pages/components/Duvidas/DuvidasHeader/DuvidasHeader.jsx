@@ -1,6 +1,6 @@
 import React from "react"
-import Colors from "../../../../common/Colors"
-import Image from "../../../../../assets/imageWomanAsk.webp"
+import Colors from "../../../../common/Colors.jsx"
+import Image from "../../../../../assets/imageWomanAsk.png"
 // import './index.css'
 
 export default function DuvidasHeader() {

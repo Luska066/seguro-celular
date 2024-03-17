@@ -1,6 +1,6 @@
 // import './index.css'
-import Colors from '../../../../common/Colors'
-import vantagensWoman from '../../../../../assets/vantagens-woman.webp'
+import Colors from '../../../../common/Colors.jsx'
+import vantagensWoman from '../../../../../assets/vantagens-woman.png'
 
 export default function VantagensOne(){
     return(

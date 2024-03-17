@@ -1,7 +1,7 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import './index.css'
 import { faBars, faDollar, faFileCircleCheck, faGlobe, faLocationArrow, faMobileScreenButton, faQuestionCircle, faShieldHalved } from '@fortawesome/free-solid-svg-icons'
-import Colors from '../../common/Colors';
+import Colors from '../../common/Colors.jsx';
 import { useEffect, useState } from 'react'
 import ButtonCoteNow from '../../common/ButtonCoteNow';
 

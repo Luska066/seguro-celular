@@ -4,7 +4,6 @@ import {
   createBrowserRouter,
   RouterProvider,
 } from "react-router-dom";
-import App from './App.jsx'
 import './App.css'
 import SectionHomeMain from './component/pages/Home/SectionHomeMain.jsx';
 import CoberturaMain from './component/pages/Cobertura/CoberturaMain.jsx';

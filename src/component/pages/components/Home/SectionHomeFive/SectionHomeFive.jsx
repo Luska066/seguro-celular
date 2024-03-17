@@ -1,12 +1,12 @@
 import { Accordion, AccordionDetails, AccordionSummary, Typography } from "@mui/material"
-import React from "react"
-import Colors from "../../../../common/Colors"
+import React, { useState } from "react"
+import Colors from "../../../../common/Colors.jsx"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faChevronRight, faPlus } from "@fortawesome/free-solid-svg-icons"
 // import './index.css'
 
 export default function SectionHomeFive(){
-    const [expanded, setExpanded] = React.useState('panel1');
+    const [expanded, setExpanded] = useState('panel1');
 
     const handleChange = (panel) => (event, newExpanded) => {
         setExpanded(newExpanded ? panel : false);

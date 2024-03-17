@@ -1,7 +1,7 @@
-import DuvidasHeader from '../components/Duvidas/DuvidasHeader/DuvidasHeader'
-import Header from '../../Layout/Header/Header'
-import DuvidasAccordions from '../components/Duvidas/DuvidasAccordions/DuvidasAccordions'
-import Footer from '../../Layout/Footer/Footer'
+import DuvidasHeader from '../components/Duvidas/DuvidasHeader/DuvidasHeader.jsx'
+import Header from '../../Layout/Header/Header.jsx'
+import DuvidasAccordions from '../components/Duvidas/DuvidasAccordions/DuvidasAccordions.jsx'
+import Footer from '../../Layout/Footer/Footer.jsx'
 
 
 

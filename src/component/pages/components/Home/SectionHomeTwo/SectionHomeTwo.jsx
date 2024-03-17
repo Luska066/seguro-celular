@@ -1,8 +1,8 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import Colors from "../../../../common/Colors";
+import Colors from "../../../../common/Colors.jsx";
 import { faDollar } from "@fortawesome/free-solid-svg-icons";
 // import './index.css'
-import ButtonCoteNow from "../../../../common/ButtonCoteNow";
+import ButtonCoteNow from "../../../../common/ButtonCoteNow.jsx";
 
 export default function SectionHomeTwo(){
     return(
