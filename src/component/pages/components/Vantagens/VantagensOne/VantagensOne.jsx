@@ -1,6 +1,7 @@
 // import './index.css'
 import Colors from '../../../../common/Colors.jsx'
 import vantagensWoman from '../../../../../assets/vantagens-woman.png'
+import React from 'react'
 
 export default function VantagensOne(){
     return(

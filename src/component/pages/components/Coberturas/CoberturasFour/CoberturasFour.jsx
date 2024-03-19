@@ -3,6 +3,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faChevronRight } from '@fortawesome/free-solid-svg-icons';
 // import './index.css'
 import ButtonCoteNow from "../../../../common/ButtonCoteNow";
+import React from 'react'
 
 export default function CoberturasFour(){
     return(

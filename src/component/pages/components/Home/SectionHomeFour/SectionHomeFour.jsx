@@ -3,6 +3,7 @@ import ButtonCoteNow from '../../../../common/ButtonCoteNow.jsx';
 import Colors from "../../../../common/Colors.jsx";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 // import './index.css'
+import React from 'react'
 
 export default function SectionHomeFour() {
     return (

@@ -1,5 +1,6 @@
 // import './index.css'
 import Colors from "../../../../common/Colors.jsx";
+import React from 'react'
 
 export default function SectionHomeSix(){
     return (

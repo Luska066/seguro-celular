@@ -1,3 +1,4 @@
+import React from 'react'
 import DuvidasHeader from '../components/Duvidas/DuvidasHeader/DuvidasHeader.jsx'
 import Header from '../../Layout/Header/Header.jsx'
 import DuvidasAccordions from '../components/Duvidas/DuvidasAccordions/DuvidasAccordions.jsx'

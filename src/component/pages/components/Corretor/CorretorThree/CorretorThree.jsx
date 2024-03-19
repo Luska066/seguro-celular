@@ -1,5 +1,6 @@
 // import './index.css'
 import Colors from '../../../../common/Colors'
+import React from 'react'
 
 export default function CorretorThree(){
     return(

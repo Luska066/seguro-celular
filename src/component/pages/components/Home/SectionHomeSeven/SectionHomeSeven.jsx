@@ -4,6 +4,7 @@ import nounApp from '../../../../../assets/noun-app-3165998.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faChevronRight } from "@fortawesome/free-solid-svg-icons";
 import Colors from '../../../../common/Colors.jsx'
+import React from 'react'
 
 export default function SectionHomeSeven(){
     return(

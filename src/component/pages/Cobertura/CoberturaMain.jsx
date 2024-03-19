@@ -7,6 +7,7 @@ import CoberturasFour from "../components/Coberturas/CoberturasFour/CoberturasFo
 import CoberturasFive from "../components/Coberturas/CoberturasFive/CoberturasFive"
 import SectionHomeFour from "../components/Home/SectionHomeFour/SectionHomeFour"
 import Footer from "../../Layout/Footer/Footer"
+import React from 'react'
 
 export default function CoberturaMain(){
     return(

@@ -3,6 +3,7 @@ import { faCheck, faXmark} from '@fortawesome/free-solid-svg-icons';
 import { faHeart } from '@fortawesome/free-regular-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 // import './index.css'
+import React from 'react'
 
 export default function CoberturasFive(){
     return(

@@ -2,6 +2,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import Colors from '../../../../common/Colors.jsx'
 // import './index.css'
 import { faArrowAltCircleLeft, faChevronRight, faDollar } from "@fortawesome/free-solid-svg-icons";
+import React from 'react'
 
 export default function SectionHomeThree(){
     return(

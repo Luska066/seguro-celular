@@ -4,6 +4,7 @@ import { faBars, faDollar, faFileCircleCheck, faGlobe, faLocationArrow, faMobile
 import Colors from '../../common/Colors.jsx';
 import { useEffect, useState } from 'react'
 import ButtonCoteNow from '../../common/ButtonCoteNow';
+import React from 'react'
 
 export default function Header({styled}) {
     

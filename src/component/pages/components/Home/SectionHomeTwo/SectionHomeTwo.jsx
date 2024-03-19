@@ -3,6 +3,7 @@ import Colors from "../../../../common/Colors.jsx";
 import { faDollar } from "@fortawesome/free-solid-svg-icons";
 // import './index.css'
 import ButtonCoteNow from "../../../../common/ButtonCoteNow.jsx";
+import React from 'react'
 
 export default function SectionHomeTwo(){
     return(
