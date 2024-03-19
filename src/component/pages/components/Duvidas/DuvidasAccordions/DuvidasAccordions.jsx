@@ -5,8 +5,6 @@ import Colors from '../../../../common/Colors'
 import { Accordion, AccordionDetails, AccordionSummary, Box, Typography } from '@mui/material'
 import ReactPlayer from 'react-player'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import React from 'react'
-
 
 export default function DuvidasAccordions(){
     const [expanded, setExpanded] = React.useState('panel1');
