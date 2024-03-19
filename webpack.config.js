@@ -4,13 +4,18 @@ fs.promises = require('fs').promises;
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const { CleanWebpackPlugin } = require('clean-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
+const webpack = require('webpack');
 
 
 module.exports = {
-  entry: './src/main.jsx',
+  mode: 'production',
+  entry: {
+    main: './src/main.jsx',
+    'react-dom': ['react-dom'],
+  },
   output: {
     path: path.resolve(__dirname, 'dist'),
-    filename: 'bundle.js',
+    filename: '[name].bundle.js',
     publicPath: '/',
   },
   performance: {
@@ -60,6 +65,10 @@ module.exports = {
     new MiniCssExtractPlugin({
       filename: '[name].css',
       chunkFilename: '[id].css',
+    }),
+    new webpack.ProvidePlugin({
+      React: 'react',
+      ReactDOM: 'react-dom',
     }),
   ],
 };
